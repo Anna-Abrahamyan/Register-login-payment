@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.start {
+  background-image: url("./static/img/backgroundimage.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1080px;
+  height: 603px;
+}
+.linkDiv {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-end;
+  margin: 5%;
+}
+
+.linkDiv a {
+  margin-top: 10px;
+  font-size: 30px;
+  padding-left: 20px;
+  text-decoration: none;
+  color: #2b8daa;
+  font-style: italic;
+}
+
+.linkDiv a:hover {
+  color: #0b4f64;
+}

@@ -1,0 +1,6 @@
+{
+    "port": "4002",
+    "jwtSecret":"gsdgvildzhbvhgvdluidhviazhvbdzuhbov",
+    "mongodbUrl": "mongodb+srv://anna:Pass123@cluster0.77fvs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "stripeSecretKey":"sk_test_51K4R3NDtqTX1p0nlMoe6wzyR32I7xukDE7X8WZzYB4v4lEvjxDQgBbrRZjydGdMNDhgeGIpeoxTyUMpIGX4Vebd400Inxl3Ulh"
+}
